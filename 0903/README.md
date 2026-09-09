@@ -2,28 +2,28 @@
 
 ## 문제 풀기 
 
-1. In an 8-bit binary number, which is the most significant bit (MSB)?
+1. In an 8-bit binary number, which is the most significant bit (MSB)? 
 번역: 8비트 이진수에서 최상위 비트(MSB)는 무엇입니까?
 답: 가장 왼쪽에 있는 비트(7번 비트) 
 
-2. What is the decimal representation of each of the following unsigned binary integers?
+3. What is the decimal representation of each of the following unsigned binary integers?
 번역: 다음 각 부호 없는 이진 정수의 십진수 표현은 무엇입니까?
 a. 00110101
 b. 10010110
 c. 11001100
 답: a   
 
-3. What is the sum of each pair of binary integers?
+4. What is the sum of each pair of binary integers?
 번역: 번역 각 이진 정수 쌍의 합은 무엇입니까?
 a. 10101111 + 11011011
 b. 10010111 + 11111111
 c. 01110101 + 10101100
 
-4. Calculate binary 00001101 minus 00000111.
+5. Calculate binary 00001101 minus 00000111.
 번역: 이진수 00001101에서 00000111을 뺀 값을 계산하세요.
 정답: 0000 0110 
 
-5. How many bits are used by each of the following data types?
+6. How many bits are used by each of the following data types?
 번역: 다음 각 데이터 유형은 몇 비트를 사용합니까?
 a. word
 b. doubleword
