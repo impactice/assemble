@@ -1,6 +1,4 @@
-# Binary, Hexadecimal, and Boolean Exercises
-
-이진수, 16진수, 불리언 대수 연습문제 정리본입니다.
+# 연습문제 
 
 ---
 
